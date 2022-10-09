@@ -4,11 +4,12 @@
 
 ## 2. How do we pseudonymize?  
 ### 2.1 수치형 변수  
-#### 가명처리-numeric.ibynb
+#### 가명처리-numeric.ipynb
 - 상단처리(상위 99.9% 이상의 값 처리)  
 - 상하단처리(상하위 99.9% 값 처리)  
 - 내림 또는 라운딩: Remove last 2 digits in numbers (ex. $1223.00 -> $1200)  
 ### 2.2 날짜형 변수
+#### 가명처리-date.ipynb
 - Remove "day" part of date info (ex. 1991.02.23 -> 1991.02)  
 ### 2.3 범주형 변수
 - 특정 값이 1,2개인 경우 주변 카테고리 값으로 대체  
