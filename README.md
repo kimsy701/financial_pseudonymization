@@ -1,4 +1,4 @@
-### financial_pseudonymization
+# financial_pseudonymization
 
 ## 1. What is pseudonymization?
 
